@@ -69,3 +69,7 @@ Best Parameters: {'max_depth': 24, 'min_samples_split': 8, 'n_estimators': 171}
 * 	Polynomial expansion improves linear model performance.
 * 	Hyperparameter tuning significantly reduces RMSE and improves generalization.
 
+## References
+* https://www.seattleretrofit.com/post/what-you-should-know-about-fault-lines-around-seattle
+* https://www.historylink.org/File/5098
+* https://www.usgs.gov/centers/earthquake-science-center/seattle-field-office
